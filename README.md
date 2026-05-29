@@ -1,7 +1,6 @@
-
 # Password-Strength-Checker
 Checks strength of password and tells us the complexity (eg. Strong, Moderate, Weak)
-# Featers
+# Features
 Mask your password with "*"                                                                                                                                         
 Checks if password has uppercase, lowercase, length, numbers, special symbols                                                                                       
 Tells complexity of the password as Strong, Moderate, Weak
